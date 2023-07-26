@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **TypeScript, React**
 
-- 👨‍💻 All of my projects are available on [my Portfolio](https://daniel-grabczewski.github.io/portfolio/)
+- 👨‍💻 All of my projects are available on [my portfolio](https://daniel-grabczewski.github.io/portfolio/)
 
 - 💬 Ask me about **React, Typscript and Knex.js**
 
 - 📫 How to reach me **danielgrabczewski@gmail.com**
 
-- ⚡ Fun fact **I have undetectable sarcasm 😝**
+- ⚡ Fun fact **I have undetectable sarcasm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
