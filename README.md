@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate full stack web developer in New Zealand</h3>
-<img alt="coding" width="250" src ="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+<!-- <img alt="coding" width="250" src ="https://octodex.github.com/images/daftpunktocat-thomas.gif"> -->
 
-<div width="400">
+
   
 - 🔭 I’m currently working on an e-commerce store called [Boba Buddies](https://github.com/Boba-Buddies/boba-buddies-store)
 
@@ -15,7 +15,7 @@
 - 📫 How to reach me **danielgrabczewski@gmail.com**
 
 - ⚡ Fun fact **I have undetectable sarcasm**
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
