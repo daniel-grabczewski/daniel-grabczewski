@@ -84,7 +84,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=daniel-grabczewski&hide_longest_streak=true" alt="daniel-grabczewski" style="height: 200px;" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=daniel-grabczewski&hide_longest_streak=true" alt="daniel-grabczewski" style="height: 200px;" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-grabczewski&show_icons=true&locale=en&layout=compact" alt="daniel-grabczewski" style="height: 200px;" />
 </p>
 
