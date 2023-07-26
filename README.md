@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate full stack web developer in New Zealand</h3>
+<h1 align="">Hi 👋, I'm Daniel</h1>
+<h3 align="">Full stack web developer in New Zealand</h3>
 <!-- <img alt="coding" width="250" src ="https://octodex.github.com/images/daftpunktocat-thomas.gif"> -->
 
 
