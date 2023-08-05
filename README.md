@@ -4,7 +4,7 @@
 
 
   
-- 🔭 I’m currently working on an e-commerce store called [Boba Buddies](https://github.com/Boba-Buddies/boba-buddies-store) 🧋
+- 🔭 I’m currently working on an e-commerce store called [Boba Buddies](https://github.com/Boba-Buddies/boba-buddies-store)🧋
 
 - 🌱 I’m currently learning **TypeScript, React**
 
