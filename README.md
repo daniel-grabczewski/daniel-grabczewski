@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript, React**
 
-- 👨‍💻 All of my projects are available on [my portfolio](https://daniel-grabczewski.github.io/portfolio/)
+- 👨‍💻 All of my projects are available on [my portfolio](https://daniel-grabczewski.github.io)
 
 - 💬 Ask me about **React, Typscript and Knex.js**
 
