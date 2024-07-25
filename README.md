@@ -1,4 +1,4 @@
-<h1 align="">Hi 👋, I'm Daniel Grabczewski (Grab-chev-ski😉)</h1>
+<h1 align="">Hi 👋, I'm Daniel Grabczewski</h1>
 <h3 align="">Full stack web developer in New Zealand</h3>
 <!-- <img alt="coding" width="250" src ="https://octodex.github.com/images/daftpunktocat-thomas.gif"> -->
 
