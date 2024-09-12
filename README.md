@@ -4,9 +4,9 @@
 
 
   
-- 🔭 I’m currently working on a business management app demo called [Boba Business Management](https://github.com/daniel-grabczewski/boba-business-management-demo)
+- 🔭 I’m currently working on a Visual Work Management Tool called [Ticketer](https://github.com/daniel-grabczewski/Ticketer), similar to Jira/Trello
 
-- 🌱 I’m currently learning **TypeScript, React**
+- 🌱 I’m currently learning **ASP.NET core, Angular**
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://daniel-grabczewski.github.io)
 
