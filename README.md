@@ -1,16 +1,16 @@
 <h1 align="">Hi 👋, I'm Daniel Grabczewski</h1>
-<h3 align="">Full stack web developer in New Zealand</h3>
+<h3 align="">Software Engineer in New Zealand</h3>
 <!-- <img alt="coding" width="250" src ="https://octodex.github.com/images/daftpunktocat-thomas.gif"> -->
 
 
   
-- 🔭 I’m currently working on a Visual Work Management Tool called [Ticketer](https://github.com/daniel-grabczewski/Ticketer), similar to Jira/Trello
-
-- 🌱 I’m currently learning **ASP.NET core, Angular**
+- 🔭 I’m currently working on a chat app called [Zap Chat](https://github.com/daniel-grabczewski/zapchat)
+  
+- 🌱 I’m currently learning **Firebase, NoSQL (Firestore)**
 
 - 👨‍💻 All of my projects are available on [my portfolio](https://daniel-grabczewski.github.io)
 
-- 💬 Ask me about **React, Typscript and Knex.js**
+- 💬 Ask me about **React, .NET and Azure**
 
 - 📫 How to reach me **danielgrabczewski@gmail.com**
 
@@ -64,15 +64,6 @@
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://tanstack.com/query/v3/" target="_blank" rel="noreferrer">
-      <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="react query" width="40" height="40"/>
-    </a>
-    <a href="https://knexjs.org" target="_blank" rel="noreferrer">
-      <img src="https://seeklogo.com/images/K/knexjs-logo-30104DC5C6-seeklogo.com.png" alt="knex" width="40" height="40"/>
-    </a>
-    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-      <img src="https://seeklogo.com/images/V/vite-logo-BFD4283991-seeklogo.com.png" alt="vite" width="40" height="40"/>
     </a>
   </p>
 </div>
