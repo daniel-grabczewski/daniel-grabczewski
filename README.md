@@ -60,13 +60,6 @@
     
 </div>
 
-
-
-<p>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=daniel-grabczewski&hide_longest_streak=true" alt="daniel-grabczewski" style="height: 200px;" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-grabczewski&show_icons=true&locale=en&layout=compact" alt="daniel-grabczewski" style="height: 200px;" />
-</p>
-
 <h1>Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/daniel-grabczewski" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="35" /></a>
