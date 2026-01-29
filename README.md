@@ -1,5 +1,5 @@
 <h1 align="">Hi 👋, I'm Daniel Grabczewski</h1>
-<h3 align="">Software Tester & Engineer in New Zealand</h3>
+<h3 align="">Software Tester & Software Engineer in New Zealand</h3>
 <!-- <img alt="coding" width="250" src ="https://octodex.github.com/images/daftpunktocat-thomas.gif"> -->
 
 
