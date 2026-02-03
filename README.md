@@ -8,10 +8,11 @@ My background in software development helps me:
 - Test systems at the **state and data level**, not just the UI  
 - Design **high-value test cases** around real failure modes  
 - Communicate defects clearly with **technical accuracy and reproducible evidence**
-
+<br>
+  
 ---
 
-## 🔍 QA Focus Areas
+### 🔍 QA Focus Areas
 
 - Manual functional testing (UI, API, persistence)
 - Data integrity & state validation (DB / localStorage)
@@ -19,29 +20,34 @@ My background in software development helps me:
 - End-to-end checkout, ordering, and money-path reliability
 - Defect reporting with clear repro steps and supporting artefacts
 - Structured QA documentation (test plans, test cases, summary reports, regression checklists)
-
+<br>
+  
 ---
 
-## 🧪 Selected QA Projects
+### 🧪 Selected QA Projects
 
 **Ticketer — QA (Ordering & Persistence)**  
 Manual testing of drag-and-drop ordering in a Kanban app, with backend verification using MySQL.  
 Focused on persistence, ordering integrity, and multi-step user interactions.  
+<br>
 
 
 **Boba Business Management — QA (Checkout, Orders & Stock)**  
 UI-to-localStorage verification of checkout reliability, order creation rules, and stock integrity in a client-only SPA.  
+<br>
 
 
 **Stripe API — QA (PaymentIntents, Refunds & Idempotency)**  
 Contract-level API testing using Postman, validating money-critical flows such as controlled declines, refunds, manual capture, and idempotency behaviour.  
+<br>
 
 👉 Full documentation and evidence for these QA Projects available on my portfolio:  
-**https://danielgrabczewski.com**
-
+**https://danielgrabczewski.com**  
+<br>  
+  
 ---
 
-## 🛠 Tools & Technical Background
+### 🛠 Tools & Technical Background
 
 **Testing & QA**
 - Manual test design & execution
@@ -56,14 +62,18 @@ Contract-level API testing using Postman, validating money-critical flows such a
 - MySQL / SQLite
 - Docker & Azure
 
-I don’t just test *what the UI shows* — I validate **what the system stores and persists**.
+I don’t just test *what the UI shows* — I validate **what the system stores and persists**.  
+<br>  
 
+  
 ---
 
-## 📫 Contact
+### 📫 Contact
 
 - 📧 Email: **danielgrabczewski@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/daniel-grabczewski**
+<br>
 
   
 
+  
