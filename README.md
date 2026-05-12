@@ -14,6 +14,7 @@ My background in software development helps me:
 
 ### 🔍 QA Focus Areas
 
+- Automation testing (Playwright, FlaUI, Appium)
 - Manual functional testing (UI, API, persistence)
 - Data integrity & state validation (DB / localStorage)
 - API contract testing (Postman)
@@ -50,6 +51,7 @@ Contract-level API testing using Postman, validating money-critical flows such a
 ### 🛠 Tools & Technical Background
 
 **Testing & QA**
+- Automation with Playwright, FlaUI on Windows, and Appium on Android
 - Manual test design & execution
 - Postman (API testing)
 - Evidence capture & verification
