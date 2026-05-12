@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Daniel Grabczewski</h1>
 
-<h3>ISTQB-certified Software Tester with a strong software development background</h3>
+<h3>ISTQB-certified Software QA Engineer with a strong software development background</h3>
 
 I specialise in **Automation, data integrity validation, manual testing, and evidence-driven testing**, with hands-on experience validating real systems across UI, API, and persistence layers.
 
