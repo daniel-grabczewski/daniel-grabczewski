@@ -2,9 +2,10 @@
 
 <h3>ISTQB-certified Software Tester with a strong software development background</h3>
 
-I specialise in **manual QA, data integrity validation, and evidence-driven testing**, with hands-on experience validating real systems across UI, API, and persistence layers.
+I specialise in **Automation, data integrity validation, manual testing, and evidence-driven testing**, with hands-on experience validating real systems across UI, API, and persistence layers.
 
 My background in software development helps me:
+- Write and architect clean automation scripts in C#
 - Test systems at the **state and data level**, not just the UI  
 - Design **high-value test cases** around real failure modes  
 - Communicate defects clearly with **technical accuracy and reproducible evidence**
@@ -28,7 +29,7 @@ My background in software development helps me:
 ### 🧪 Selected QA Projects
 
 **Ticketer — QA (Ordering & Persistence)**  
-Manual testing of drag-and-drop ordering in a Kanban app, with backend verification using MySQL.  
+Testing of a Kanban app, with backend verification using MySQL.  
 Focused on persistence, ordering integrity, and multi-step user interactions.  
 <br>
 
@@ -51,7 +52,7 @@ Contract-level API testing using Postman, validating money-critical flows such a
 ### 🛠 Tools & Technical Background
 
 **Testing & QA**
-- Automation with Playwright, FlaUI on Windows, and Appium on Android
+- Automation with C#, using Playwright, FlaUI on Windows, and Appium on Android
 - Manual test design & execution
 - Postman (API testing)
 - Evidence capture & verification
